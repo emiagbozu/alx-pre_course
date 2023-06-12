@@ -1,1 +1,1 @@
-My first readme
+learning everyday to be a software engineer
